@@ -57,7 +57,7 @@ GPIO.setmode(GPIO.BOARD)
 #Pin Arrays
 RGB1 = [40,37,38]
 RGB2 = [35,36,31]
-RGB3 = [29,27,28]
+RGB3 = [29,2,3]
 RGB4 = [15,16,13]
 RGB5 = [12,10,8]
 Buzzer = 7
