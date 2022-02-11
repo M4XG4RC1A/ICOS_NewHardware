@@ -1,0 +1,40 @@
+Flanges
+Names
+Principal
+Comida
+Bebida
+Acciones
+Lugares
+Objetos
+Personas
+
+Colores
+#311b18
+#d9f6d9
+#112ed9
+#239024
+#d94826
+#28d9d9
+#d933d9
+
+Background Words Text Color
+white
+
+Text Words Color
+black
+
+Sentence Color part
+#d9d910
+
+System
+PC
+
+Names
+["","","","","","","","","","","","","","",""]
+["No","Si","Yo","Yo Quiero","Yo No Quiero"," ","","","","","","","","",""]
+["Cacahuates","Galleta","Huevos","Manzana","Naranja","Palomitas","Papas","Sopa","Tortilla","Uva",""," ","","",""]
+["Agua","Jugo","Leche","Refresco","Yogurth","","","","","","","","","",""]
+["Abrazo","Bailar","Cantar","Clasificar","Correr","Cosquillas","Dibujar","Montar a Caballo","Nadar","Pegar","Pintar","Recortar","Saltar","Estresado",""]
+["Casa Abuelos","Casa","Centro Comercial","Escuela","Heladera","Doctor","Iglesia","Alberca","Plaza","Restaurante","Supermercado","","","",""]
+["Borrador","Carrito","Colores","Cuchara","Fichas","Lapiz","Maraca","Muñeco","Pelota","Peluche","Plato","Tijeras","Vaso","",""]
+["Abuela","Abuelo","Hermano","Maestro","Mama","Papa","Terapeuta","","","","","","","",""]
